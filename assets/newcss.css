@@ -396,6 +396,10 @@ img {
   align-self: center;
   /* border: 1px solid #fff; */
 }
+.info {
+  margin-bottom: 7px;
+  font-size: var(--h3-font-size);
+}
 
 .about__description {
   text-align: center;
